@@ -1702,6 +1702,8 @@ section {
   --color-default: #ffffff;
   --color-background: #000000;
   --color-background-rgb: 0, 0, 0;
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(8,40,191,1) 100%);
   padding: 80px 0;
   position: relative;
   -webkit-clip-path: inset(0);
